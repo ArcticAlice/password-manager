@@ -1,0 +1,4 @@
+.envrc
+*.pyc
+*.db*
+*.DS_Store
